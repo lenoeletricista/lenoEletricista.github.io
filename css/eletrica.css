@@ -1,0 +1,179 @@
+body, html{
+	height: 100%;
+	background-color: #fff;
+}
+
+nav{
+	width: 100%;
+	position: relative;
+	background-color: rgba(30, 136, 229, .8);
+}
+
+section{
+	margin-top: 61px;
+	min-height: calc(100vh - 100px);
+	margin-bottom: 50px;
+}
+
+#jumb-home{
+	position: relative;
+	background-image: url("../img/fundo7.jpeg");
+	height: 600px;;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: -60px;
+}
+
+#jumb-home #titulos{
+	margin-top: 110px;
+}
+
+#jumb-home p, h1{
+	color: #fff;
+	font-family: inherit;
+	text-shadow: 3px 3px #64517f;
+}
+
+#jumb-home h1{
+	font-size: 300%;
+	margin-top: -20px;
+
+}
+
+#jumb-home p{
+	font-size: 200%;
+
+}
+
+#jumb-horario {
+	position: relative;
+	background-image: url("../img/fundo7.jpeg");
+	height: 350px;;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: -60px;
+
+}
+
+#jumb-horario h1{
+	font-size: 300%;
+	margin-top: 110px;
+	text-shadow: 3px 3px #64517f;
+}
+
+#cards p{
+	color: #000;
+}
+.card{
+	margin-top: 10px;
+	min-height: 550px;
+}
+
+#cards-1 .card-text {
+	font-size: 105%;
+	text-align: left;
+}
+
+#cards-1 .card-header{
+	font-size: 125%;
+	font-style: 
+
+}
+.card img{
+}
+
+#card-2 .card-header{
+	font-size: 125%; 
+
+}
+
+#tabela-horario{
+	font-family: 'Arial';
+	font-size: 16px;
+	height: 470px;
+}
+#tabela-horario h2{
+	color:#005f97 ;
+	margin-top: 50px;
+}
+
+#tabela-horario hr{
+	width: 400px;
+}
+
+#tabela-horario table{
+	margin-bottom: 50px;
+}
+#tabela-horario table thead tr th{
+	color: #fff;
+	
+}
+#tabela-horario table tbody{
+	background-color: #fff;
+}
+
+#tabela-horario thead{
+	background-color: #1E88E5;
+}
+
+footer {
+	font-family:'Open Sans Light', sans-serif;
+	padding: 0 20px;
+	height:auto;
+	background-color: rgba(30, 136, 229, .9);
+	
+}
+
+footer{
+	font-weight: bold;
+	position: relative;
+	padding-top: 15px;
+}
+
+footer hr{
+	margin-bottom: 5px;
+
+}
+
+footer span, h4, p{
+	color: #fff;
+}
+footer h4{
+	font-weight: bold;
+}
+
+footer .fa{
+	font-size: 25px;
+	padding-right: 15px;
+	color: #fff;
+}
+
+
+footer .whatsapp{
+	position: relative;
+	top:-10px;
+}
+
+footer .facebook{
+	position: relative;
+	top:-20px;
+}
+footer p{
+	font-weight: bold;
+	padding: 0;
+}
+
+
+
+#footer-links ul{
+	list-style: square;
+	color: #fff;
+}
+
+#footer-links ul li a{
+	list-style: none;
+	color: #fff;
+
+}
